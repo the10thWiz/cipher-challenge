@@ -1,0 +1,4 @@
+Alice is sending a message to Bob.
+It is an important date in the form m = MDDYY, as a 5 digit number.
+She encrypts it using Bob's very secure RSA public key with N = 89711 and e = 1025 and gets the ciphertext 66832 (i.e. m ^ 1025 mod 89711 = 66832.
+What was the original message, and for bragging rights, what was the significance of that day?
